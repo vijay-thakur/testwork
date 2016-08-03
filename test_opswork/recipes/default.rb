@@ -11,3 +11,5 @@ template "/opt/index.html" do
   source "index.html.erb"
   mode "0755"
 end
+
+Chef::Log.info("********** Invoice line number 1 is a '#{node['work']['greeting']}' **********")
