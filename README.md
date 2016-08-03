@@ -1,2 +1,2 @@
 # testwork
-test opswork vareiables
+test opswork variables
