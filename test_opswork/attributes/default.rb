@@ -1,0 +1,1 @@
+default['work']['greeting'] = 'TEST'
